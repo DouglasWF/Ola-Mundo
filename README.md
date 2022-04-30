@@ -3,4 +3,4 @@
 
 Repositório criado durante uma aula ao vivo!
 
-Essa linha eu alterie diretamento no site!
+Essa linha eu alterei diretamento no site!
